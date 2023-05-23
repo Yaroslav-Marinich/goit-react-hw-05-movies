@@ -1,0 +1,27 @@
+.header {
+  position: sticky;
+  width: 100%;
+  z-index: 1050;
+  display: flex;
+  align-items: center;
+  padding: 20px 30px;
+  color: #fff;
+  background-color: #42c042;
+}
+
+.headerNav {
+  display: flex;
+  gap: 30px;
+}
+
+.headerNavLink {
+  color: white;
+  font-size: 18px;
+  font-weight: 500;
+  text-transform: uppercase;
+  text-decoration: none;
+
+  &.active {
+    color: rgb(28, 67, 117);
+  }
+}

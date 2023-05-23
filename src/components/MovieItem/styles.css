@@ -1,0 +1,22 @@
+.movieItemContainer {
+  max-width: 700px;
+  display: flex;
+  flex-direction: column;
+  padding: 30px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  border: 1px solid #5a5c5a;
+  border-radius: 4px;
+}
+
+.movieItemImg {
+  margin-bottom: 20px;
+}
+
+.movieItemWrap {
+  margin-left: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
