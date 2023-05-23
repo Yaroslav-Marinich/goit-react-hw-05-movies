@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/415.01770538.chunk.css","mappings":"AAAA,eAGE,aAAc,CACd,eAAgB,CAFhB,kBAAmB,CADnB,gBAIF","sources":["components/MovieList/styles.css"],"sourcesContent":[".movieListItem {\n  margin-left: 10px;\n  margin-bottom: 15px;\n  color: #212121;\n  font-weight: 500;\n}"],"names":[],"sourceRoot":""}
